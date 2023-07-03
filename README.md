@@ -30,7 +30,7 @@ For channel-wise breakdown, please refer to the notebooks.
 ### Notebooks
 
 * [Get News Data](notebooks/01_news_grabber.ipynb)
-* [Extract Names](noteooks/02_extract_names_from_news.ipynb)
+* [Extract Names](notebooks/02_extract_names_from_news.ipynb)
 * [Analyze Authors](notebooks/03_news_authors_lstm_infer.ipynb)
 * [Analyze People Mentioned](notebooks/04_news_mentioned_names_lstm_infer.ipynb)
 
