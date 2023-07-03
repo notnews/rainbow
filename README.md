@@ -15,7 +15,7 @@ Race/ethnicity of authors across all outlets.
 | other        | .4%   |
 
 
-Race/ethnicity of people referred to across all outlets.
+Race/ethnicity of people mentioned in the news across all outlets.
 
 | Race/Ethnicity | Percentage |
 |--------------|----------|
@@ -32,7 +32,7 @@ For channel-wise breakdown, please refer to the notebooks.
 * [Get News Data](notebooks/01_news_grabber.ipynb)
 * [Extract Names](noteooks/02_extract_names_from_news.ipynb)
 * [Analyze Authors](notebooks/03_news_authors_lstm_infer.ipynb)
-* [Analyze People Referred to](notebooks/04_news_mentioned_names_lstm_infer.ipynb)
+* [Analyze People Mentioned](notebooks/04_news_mentioned_names_lstm_infer.ipynb)
 
 ### Authors
 
