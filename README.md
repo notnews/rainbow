@@ -8,9 +8,9 @@ Race/ethnicity of authors across all outlets.
 | Race/Ethnicity | Percentage |
 |--------------|----------|
 | nh_white     | 78%   |
-| nh_black     | 8.5%   |
-| asian        | 7.3%   |
-| hispanic     | 5.7%   |
+| nh_black     | 5.7%   |
+| asian        | 8.5%   |
+| hispanic     | 7.3%   |
 | other        | .4%   |
 
 
